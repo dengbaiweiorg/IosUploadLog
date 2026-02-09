@@ -1,0 +1,8 @@
+Running altool at path '/Applications/Xcode_16.4.app/Contents/SharedFrameworks/ContentDeliveryServices.framework/Frameworks/AppStoreService.framework/Support/altool'...
+2026-02-09 11:46:06.718  INFO: [altool.6000027D8080] [ContentDelivery.Uploader.6000027D8080] 
+==========================================
+UPLOAD SUCCEEDED with 0 warnings, 0 messages
+Delivery UUID: de5e00ab-998b-4201-8ab1-49b2619c79c8
+Transferred 3071001 bytes in 0.043 seconds (71.8MB/s)
+==========================================
+No errors uploading 'Basic_Calculator.ipa/Basic_Calculator.ipa'

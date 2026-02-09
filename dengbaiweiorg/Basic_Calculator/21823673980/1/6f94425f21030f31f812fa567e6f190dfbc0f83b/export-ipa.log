@@ -1,0 +1,4 @@
+2026-02-09 11:45:16.611 xcodebuild[7289:35491] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/yz/zr09txvs5dn18vt4cn21kzl40000gn/T/Basic_Calculator_2026-02-09_11-45-16.608.xcdistributionlogs".
+Exported Basic_Calculator to: /Users/runner/work/Basic_Calculator/Basic_Calculator/Basic_Calculator.ipa
+** EXPORT SUCCEEDED **
+
